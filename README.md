@@ -17,7 +17,7 @@ This my future ready talent internship project.
 
 ![Screenshot (1081)](https://user-images.githubusercontent.com/105443101/191330967-635eeedc-9234-4384-be99-a24ce313a049.png)
 
-## Pakages Page
+## Packages Page
 
 ![Screenshot (1082)](https://user-images.githubusercontent.com/105443101/191330980-0df72440-39a6-4943-b231-d6603ea22fc8.png)
 
